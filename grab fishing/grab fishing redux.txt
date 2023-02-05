@@ -1,0 +1,21 @@
+Same base mechanics. 
+Objects will spawn endlessly.
+Endless spawning will be done by spawning an object after current one is caught.
+There are multiple levels that will require a certain score within a certain time limit.
+Palette for the water colours will be swapped for different level areas.
+A background song for each level.
+Power ups will be added.
+Extra penalty items will be added.
+Extra fish will be added.
+
+Bombs are -50 points
+Jellyfish are -25 points
+Hooks are -10 points
+Reg trash are -5 points
+
+Snails and goldfish are +5 points
+Reg fish are +10 points
+Eels are +25
+
+Coin is +50 points
+Stopwatch will pause timer or 5 seconds
